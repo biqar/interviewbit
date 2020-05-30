@@ -7,7 +7,7 @@ Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
 
 The Sudoku board could be partially filled, where empty cells are filled with the character ‘`.`’.
 
-![sudoku_board](http://url/to/img.png)
+![sudoku_board](https://github.com/biqar/interviewbit/blob/master/Hashing/Hash%20search/Valid%20Sudoku/sudoku.png)
 
 The input corresponding to the above configuration :
 ```

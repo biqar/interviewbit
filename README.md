@@ -24,3 +24,6 @@ Happy Coding!
 * [Greedy Algorithm](https://github.com/biqar/interviewbit/tree/master/Greedy%20Algorithm)
 * [Graph Data Structure & Algorithms](https://github.com/biqar/interviewbit/tree/master/Graph%20Data%20Structure%20%26%20Algorithms)
 * [Code Ninja!](https://github.com/biqar/interviewbit/tree/master/Code%20Ninja!)
+
+## Give a Star! :star:
+If you like this project please consider giving it a :star: star :star:. Thanks!
